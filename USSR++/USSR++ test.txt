@@ -1,0 +1,4 @@
+lottery Alexej
+assign Alexej print
+make Alexej do "Hello, World!"
+pay Alexej 390
